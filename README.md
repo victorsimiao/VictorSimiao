@@ -1,4 +1,4 @@
-# Victor Simião :man
+# Victor Simião 💻
 
 ### Seja bem vindo ao meu repositório!👋😄 aqui fica reunido a maioria dos meus projetos de estudo, sou apaixonado por treinar e aplicar meus conhecimentos.
 
