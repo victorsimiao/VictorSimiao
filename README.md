@@ -3,11 +3,9 @@
 ### Seja bem vindo ao meu repositório!👋😄 aqui fica reunido a maioria dos meus projetos de estudo, sou apaixonado por treinar e aplicar meus conhecimentos.
 
 ### 💼 Trabalho com
-![Java](https://img.shields.io/badge/-Java-E42D2C?style=flat-square&logo=java&logoColor=white)
-![Spring](https://img.shields.io/badge/-Spring-6AAE3D?style=flat-square&logo=spring&logoColor=white)
-![JPA](https://img.shields.io/badge/-JPA-58646A?style=flat-square&logo=jpa&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
-
+<p align="center">
+<img src= https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg alt=java width="40" height="40"/> <img src= https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg alt=git width="40" height="40"/> <img src= https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-plain-wordmark.svg alt=mysql width="40" height="40"/>
+<p>
 <!--
 **VictorSimiao/VictorSimiao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -22,3 +20,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<p align="center"> <img src=https://github-readme-stats.vercel.app/api?username=VictorSimiãot&show_icons=true alt=rahuldkjain /> </p>
