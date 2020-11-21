@@ -6,6 +6,8 @@
 <p align="center">
 <img src= https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg alt=java width="40" height="40"/> <img src= https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg alt=git width="40" height="40"/> <img src= https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-plain-wordmark.svg alt=mysql width="40" height="40"/>
 <p>
+<p align="center"> <img src=https://github-readme-stats.vercel.app/api?username=VictorSimiao&show_icons=true alt=Victor /> </p>
+  
 <!--
 **VictorSimiao/VictorSimiao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -20,4 +22,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<p align="center"> <img src=https://github-readme-stats.vercel.app/api?username=VictorSimiãot&show_icons=true alt=rahuldkjain /> </p>
+
