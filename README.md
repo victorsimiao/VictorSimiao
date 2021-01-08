@@ -2,24 +2,8 @@
 [![Linkedin Badge](https://img.shields.io/badge/-Victor-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/victorsreis/)](https://www.linkedin.com/in/victorsreis/)
 ### Seja bem vindo ao meu repositório!👋😄 aqui fica reunido a maioria dos meus projetos de estudo, sou apaixonado por treinar e aplicar meus conhecimentos.
 
-### 💼 Trabalho com
-<p align="center">
-<img src= https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg alt=java width="40" height="40"/> <img src= https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg alt=git width="40" height="40"/> <img src= https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-plain-wordmark.svg alt=mysql width="40" height="40"/>
-<p>
-<p align="center"> <img src=https://github-readme-stats.vercel.app/api?username=VictorSimiao&show_icons=true alt=Victor /> </p>
-  
-<!--
-**VictorSimiao/VictorSimiao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ [![iuricode](https://github-readme-stats.vercel.app/api?username=VictorSimiao&theme=tokyonight)](https://github.com/VictorSimiao/)
+ [![iuricode](https://github-readme-stats.vercel.app/api/top-langs/?username=VictorSimiao&hide=html&layout=compact&theme=tokyonight)](https://github.com/VictorSimiao/)
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 
