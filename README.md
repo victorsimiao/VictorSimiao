@@ -1,4 +1,4 @@
-![capa github](https://github.com/VictorSimiao/VictorSimiao/blob/main/images/capa.png) 
+![capa github](https://github.com/VictorSimiao/VictorSimiao/blob/main/imagens/capa.png) 
 
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/victorsreis/)](https://www.linkedin.com/in/victorsreis/)
 ### Seja bem vindo ao meu repositório!👋😄 aqui fica reunido a maioria dos meus projetos de estudo, sou apaixonado por treinar e aplicar meus conhecimentos.
