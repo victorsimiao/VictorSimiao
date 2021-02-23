@@ -10,7 +10,8 @@
 </center>  
 
 
-### Seja bem vindo ao meu repositório!👋😄 aqui fica reunido a maioria dos meus projetos de estudo, sou apaixonado por treinar e aplicar meus conhecimentos.
+### Seja bem vindo ao meu repositório!👋😄  
+Aqui fica reunido a maioria dos meus projetos de estudo, sou apaixonado por treinar e aplicar meus conhecimentos.
 
 
 ## :octocat:  Principais Habilidades
@@ -19,7 +20,7 @@
 - [x] Maven | Gradle
 - [x] Tomcat 
 - [x] Swagger 
-- [x] MySQL | H2 
+- [x] MySQL | H2 | PostgreSQL
 - [x] Git
 - [x] Eclipse | VSCode | Insomnia 
 
