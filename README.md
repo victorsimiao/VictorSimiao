@@ -16,7 +16,7 @@ Aqui fica reunido a maioria dos meus projetos de estudo, sou apaixonado por trei
 
 ## :octocat:  Principais Habilidades
 - [x] Java | Java EE
-- [x] Spring Framework | Hibernate 
+- [x] Spring | Hibernate 
 - [x] Maven | Gradle
 - [x] Tomcat 
 - [x] Swagger 
