@@ -9,8 +9,7 @@
   </table>
 </center>  
 
-
-### Seja bem vindo ao meu repositório!👋😄  
+ 
 Aqui fica reunido a maioria dos meus projetos de estudo, sou apaixonado por treinar e aplicar meus conhecimentos.
 
 
