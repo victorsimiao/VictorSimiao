@@ -30,4 +30,4 @@ Aqui fica reunido a maioria dos meus projetos de estudo, sou apaixonado por estu
 ## :mag: Onde me encontrar
 
 <a href="https://www.linkedin.com/in/victorsreis/"><img height="30" src="assets/images/linkedin.png"></a>&nbsp;&nbsp;
-<a href="malito:victor.sreis@hotmail.com"><img height="30" src="assets/images/email.png"></a>&nbsp;&nbsp;
+<a href="mailto:victor.sreis@hotmail.com"><img height="30" src="assets/images/email.png"></a>&nbsp;&nbsp;
