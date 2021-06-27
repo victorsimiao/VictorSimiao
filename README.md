@@ -1,17 +1,5 @@
-<div align="center">
-  <img src="assets/images/capa.png" alt="Capa">
-</div>
-
-<div align="center">
-  <table>
-    <tr>
-        <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VictorSimiao&hide=html&layout=compact&theme=buefy" /></td>
-        <td><img width="495px" align="left" src="https://github-readme-stats.vercel.app/api?username=VictorSimiao&theme=buefy"/></td>
-    </tr>   
-  </table>
-</div>
-
-  <div align="center">
+# Olá, Sou Victor (:computer::bulb::heart:)
+ [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=010406&size=30&center=true&lines=Sou+desenvolvedor+Java;Seja+bem-vindo(a))](https://git.io/typing-svg)
  
 Aqui fica reunido a maioria dos meus projetos de estudo, sou apaixonado por estudar, treinar e aplicar meus conhecimentos.
 </div>
