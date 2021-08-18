@@ -6,14 +6,18 @@ Aqui fica reunido a maioria dos meus projetos de estudo, sou apaixonado por estu
 
 ## :octocat: Principais Habilidades
 
-- [x] Java
-- [x] Spring Framework | Hibernate
+- [x] Java | Kotlin
+- [x] Spring | Micronaut
+- [x] Rest | gRPC
+- [x] JUnit
+- [x] Docker
+- [x] Kafka
 - [x] Maven | Gradle
 - [x] Tomcat
 - [x] Swagger
 - [x] MySQL | H2 | PostgreSQL
 - [x] Git
-- [x] Eclipse | VSCode | Insomnia
+- [x] Eclipse | IntelliJ
 
 ## :mag: Onde me encontrar
 
