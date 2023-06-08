@@ -6,7 +6,6 @@ Graduado em Análise e Desenvolvimento de Sistemas pela IFES, com diversos curso
 Aqui neste Github você encontrará alguns exercícios, atividades de alguns cursos e projetos para treinar minhas habilidades em programação.
 
 ## 🎓 Formações 
-- 🎓 Bootcamp Orange Talents (Zup I.T. Innovation) 2021
 - 🎓 Análise e Desenvolvimento de Sistemas - (IFES - Instituto Federal do Espírito Santo) - 2019
 - 🎓 Técnico em Informática - (IFES - Instituto Federal do Espírito Santo) - 2014
 
